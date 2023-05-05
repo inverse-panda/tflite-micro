@@ -1,0 +1,15 @@
+[submodule "third_party_submodules/flatbuffers"]
+	path = third_party_submodules/flatbuffers
+	url = https://github.com/google/flatbuffers
+	branch = a66de58af9565586832c276fbb4251fc416bf07f
+[submodule "third_party_submodules/kissfft"]
+	path = third_party_submodules/kissfft
+	url = https://github.com/mborgerding/kissfft
+	branch = 33d9ad3bad3fe8f1fb43a4634f61ea9a40240534
+[submodule "third_party_submodules/ruy"]
+	path = third_party_submodules/ruy
+	url = https://github.com/google/ruy
+	branch = 54774a7a2cf85963777289193629d4bd42de4a59
+[submodule "third_party_submodules/gemmlowp"]
+	path = third_party_submodules/gemmlowp
+	url = https://github.com/google/gemmlowp
