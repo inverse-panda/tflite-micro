@@ -1,7 +1,7 @@
 [submodule "third_party_submodules/flatbuffers"]
 	path = third_party_submodules/flatbuffers
-	url = https://github.com/google/flatbuffers
-	branch = a66de58af9565586832c276fbb4251fc416bf07f
+	url = https://github.com/inverse-panda/flattbuffers.git
+	branch = 6215c19e55f7c187a0eaa7afb93eae18df300eb1
 [submodule "third_party_submodules/kissfft"]
 	path = third_party_submodules/kissfft
 	url = https://github.com/mborgerding/kissfft
